@@ -12,6 +12,9 @@
  after you move the current path of your
  project. Can be resolved by  Build---> Clean and Build--> Build APK*/
 //if the replacement displayed improperly, make sure your input layout is correct
+
+//g++ -std=c++11 main.cpp -o main          on Linux
+// ./main 
 #include <iostream>
 #include "keyboard.h"
 #include <string>
